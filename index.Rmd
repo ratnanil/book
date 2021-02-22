@@ -24,6 +24,9 @@ source("R/helperfunctions.R", local = knitr::knit_global())
 
 # Welcome!
 
+Adding a line for testing purposes.
+
+
 ## What this book is about
 
 This is a resource for people wanting to learn spatial-R (Analysis, Visualization) in R and are coming with a background in ArcGIS. This resource should provide some help on this journey. To make use of this ressource, we assume two things: (1) that you have some prior experience with `R` and (2) that you have experience with Geodata and GIS-Concepts. 
